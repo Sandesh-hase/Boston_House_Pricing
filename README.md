@@ -15,9 +15,10 @@ conda activate venv/
 ```
 
 
-Add username and mail 
+Add username and mail config
 ```
 git config --global user.name "git-user_name"
+```
+```
 git config --global user.email "git-mail Id"
 ```
-
