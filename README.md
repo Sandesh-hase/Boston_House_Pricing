@@ -1,4 +1,4 @@
-# Boston_House_Pricing predicyion
+# Boston_House_Pricing prediction - End to end docker and CI-CD Implementation
 
 ### Tools required
 1. [GithubAccount](https://github.com)
